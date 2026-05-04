@@ -6,6 +6,6 @@ Este proyecto contiene la configuración y los datos para la práctica de integr
 **--PREPARACIÓN DEL ENTORNO--**
 
 -Archivo clientes_mock.csv: Para que nuestra base de datos no esté vacía creamos dicho archivo, utilizamos la herramienta nativa de importación de Odoo e introducimos una serie de datos
-                            de cada cliente (Nombre,Correo electrónico,Teléfono,Ciudad,País, y a continuación mencionamos si es una compañía
+                            de cada cliente (Nombre,Correo electrónico,Teléfono,Ciudad,País, y a continuación mencionamos si es una compañía. 
 
 
