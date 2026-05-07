@@ -12,5 +12,6 @@ A continuación, exportamos los datos de los clientes en formato CSV (Subimos el
 exitosa, por lo presionamos el botón de "Importar"
 
 Seguidamente añadimos un producto y realizamos la facturación del mismo (archivo FACTURA_INV_2026_00001.pdf)
+Tras eso entramos en la vista y  vemos el xml, buscamos la etiqueta de cierre y pegamos el codigo adjuntado, despues imprimiremos el pedido
 
 
