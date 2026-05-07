@@ -11,6 +11,6 @@ Este proyecto contiene la configuración y los datos para la práctica de integr
 A continuación, exportamos los datos de los clientes en formato CSV (Subimos el CSV a Odoo, mapeará automáticamente las cabeceras (Nombre, etc), tras esto, pulsamos el botón de probar y visualizamos una emportación
 exitosa, por lo presionamos el botón de "Importar"
 
-Seguidamente añadimos un producto y realizamos la facturación del mismo
+Seguidamente añadimos un producto y realizamos la facturación del mismo (archivo FACTURA_INV_2026_00001.pdf)
 
 
